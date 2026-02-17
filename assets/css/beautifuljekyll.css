@@ -1098,7 +1098,8 @@ pre {
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: red !important;
+}
 
 .gs-section-02 h3 { 
    color: blue
