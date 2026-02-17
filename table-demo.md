@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-{{ amiright? }}
+<h1> amiright? </h1>
 
 ![](https://raw.githubusercontent.com/hollyyee/beautiful-jekyll/refs/heads/master/assets/img/ryan-v-ryan.jpg)
 
