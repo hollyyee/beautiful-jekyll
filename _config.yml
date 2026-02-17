@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Monty Hall
+title: Holly Website
 
 # Your name to show in the footer
 author: Some Person
@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Things about monty hall. 
+rss-description: New to Cascading Style Sheets and html.
 
 # --- General options --- #
 
@@ -99,11 +100,11 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#5c8dff"
-navbar-text-col: "#820dff"
-navbar-border-col: "#fbc7ff"
+navbar-col: "#fbc7ff"
+navbar-text-col: "#dac7ff"
+navbar-border-col: "#9ccfff"
 page-col: "#FFFFFF"
-text-col: "#008AFF"
+text-col: "#000000"
 link-col: "#fbc7ff"
 hover-col: "#dac7ff"
 footer-col: "#9ccfff"
