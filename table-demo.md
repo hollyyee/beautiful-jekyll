@@ -22,9 +22,9 @@ gosling:
 ---
 
 
+{{ amiright? }}
 
-
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)
+![](https://raw.githubusercontent.com/hollyyee/beautiful-jekyll/refs/heads/master/assets/img/ryan-v-ryan.jpg)
 
 
 ## Lorem Ipsum
